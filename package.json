@@ -10,6 +10,7 @@
   "license": "ISC",
   "repository": "crashlytics/galley-cli",
   "dependencies": {
+    "chalk": "^1.1.1",
     "check-dependencies": "^0.9.5",
     "findup-sync": "^0.2.1",
     "resolve": "^1.1.6"
