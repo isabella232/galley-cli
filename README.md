@@ -1,12 +1,16 @@
+![Galley](docs/images/galley-red.png)
+
 # galley-cli
 
-CLI frontend for Galley.
+CLI frontend for [Galley](https://github.com/crashlytics/galley).
 
-Full documentation at: (galley)[https://github.com/crashlytics/galley]
+**Latest version:** 1.0.0 release!
 
 ## Installation
 
-`npm install -g 'git+ssh://git@github.com:crashlytics/galley-cli#distribution'`
+```console
+$ npm install -g galley-cli
+```
 
 ## Use
 
@@ -17,3 +21,6 @@ the `Galleyfile`
 
 As a step-saving measure, the `galley` CLI tool will install any missing NPM dependencies before
 running Galley.
+
+See the [Galley README](https://github.com/twitter-fabric/galley/blob/master/README.md) for
+complete documentation on Galley.
