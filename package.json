@@ -1,14 +1,18 @@
 {
   "name": "galley-cli",
   "version": "1.0.0",
-  "description": "CLI for Galley",
+  "description": "CLI runner for Galley, a Docker container orchestrator.",
   "preferGlobal": true,
   "bin": {
     "galley": "bin/galley.js"
   },
   "author": "Twitter, Inc.",
-  "license": "ISC",
-  "repository": "crashlytics/galley-cli",
+  "license": "MIT",
+  "repository": "twitter-fabric/galley-cli",
+  "bugs": {
+    "url" : "https://github.com/twitter-fabric/galley-cli/issues",
+    "email" : "galley-discuss@googlegroups.com"
+  },
   "dependencies": {
     "chalk": "^1.1.1",
     "check-dependencies": "^0.9.5",
