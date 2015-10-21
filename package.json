@@ -1,6 +1,6 @@
 {
   "name": "galley-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI runner for Galley, a Docker container orchestrator.",
   "preferGlobal": true,
   "bin": {
