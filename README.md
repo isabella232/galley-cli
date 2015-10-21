@@ -4,7 +4,7 @@
 
 CLI frontend for [Galley](https://github.com/crashlytics/galley).
 
-**Latest version:** 1.0.0 release!
+**Latest version:** 1.0.1 release!
 
 ## Installation
 
