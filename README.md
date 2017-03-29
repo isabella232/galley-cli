@@ -2,7 +2,7 @@
 
 # galley-cli
 
-CLI frontend for [Galley](https://github.com/crashlytics/galley).
+CLI frontend for [Galley](https://github.com/twitter-fabric/galley).
 
 **Latest version:** 1.0.1 release!
 
